@@ -21,6 +21,5 @@ A Flutter application demonstrating how to fetch data from a REST API and displa
 ---
 
 ## 📚 Requirements
-
-- Flutter SDK version 3.x or later  
+ 
 - An API endpoint to fetch data ('https://dummyjson.com/products')  
