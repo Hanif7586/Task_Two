@@ -1,16 +1,26 @@
 # task_two
 
-A new Flutter project.
+📄 API Fetch with ListView & Provider
+A Flutter application demonstrating how to fetch data from a REST API and display it in a ListView using the Provider package for state management.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌐 **API Integration**: Fetch data from a REST API.  
+- 📜 **ListView Display**: Display fetched data in a scrollable list.  
+- 🛠️ **Provider for State Management**: Efficient and scalable state management.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework**: Flutter  
+- **State Management**: Provider  
+- **HTTP Library**: http  
+- **API**: JSONPlaceholder  
+
+---
+
+## 📚 Requirements
+
+- Flutter SDK version 3.x or later  
+- An API endpoint to fetch data ('https://dummyjson.com/products')  
